@@ -1,0 +1,13 @@
+train: C:/Users/gesco/Downloads/ChemicalIdentificationSystem/datasets/GHSSymbols.v2i.yolov8/train/images
+val: C:/Users/gesco/Downloads/ChemicalIdentificationSystem/datasets/GHSSymbols.v2i.yolov8/valid/images
+test: C:/Users/gesco/Downloads/ChemicalIdentificationSystem/datasets/GHSSymbols.v2i.yolov8/test/images
+
+nc: 13
+names: ['cas number', 'chemical name', 'compressed gas', 'corrosive', 'danger text', 'environmental hazard', 'explosive', 'flammable', 'health hazard', 'irritant', 'oxidizer', 'toxic', 'warning text']
+
+roboflow:
+  workspace: metil
+  project: ghssymbols
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/metil/ghssymbols/dataset/2
