@@ -2,4 +2,4 @@ an AI-driven system for identifying chemical substances in images and retrieving
 
 Run the chemical_identification_system.py file to try out the program
 
-[View Project Summary (PDF)](docs/ProjectSummary.pdf)
+[View Project Summary (PDF)](ProjectSummary.pdf)
